@@ -2,13 +2,13 @@
 Course: COMP826 – Mobile Systems Development  
 Student: Pan Shao (25300414)  
 Role: UI/UX Designer  
-Milestone 2: Prototype, Evaluation, and Recommendations  
+Milestone 2: Prototype, and Recommendations  
 
 
 # Overview
 BeaconNav is a user-centred indoor navigation prototype designed for AUT’s WG building.  
 It helps students locate classrooms quickly by integrating timetables, accessibility settings, and offline maps.  
-This repository contains only UI/UX design artefacts and evaluation evidence — no source code.
+This repository contains only UI/UX artefacts and demonstration materials — no source code.
 
 
 # Prototype Screenshots
@@ -37,16 +37,6 @@ The video demonstrates key interactions, including:
 - Offline map download and cache recovery  
 
 
-# Evaluation Summary
-Usability testing was conducted with 5 AUT students, following the PACMAD usability model (Harrison et al., 2013).  
-Key findings:  
-- Task completion rate: 100% 
-- Mean task time: 92 seconds  
-- Error rate: 6%  
-- SUS score: 82.4 (Excellent usability)  
-
-Full evaluation details and analysis are provided in the Milestone 2 report submitted via Canvas.
-
 
 # Documentation
 Complete report:  
@@ -55,7 +45,7 @@ COMP826_Milestone2_Report_PanShao_25300414.pdf
 The report includes:  
 - System overview and design rationale  
 - Personas and user-centred design decisions  
-- Evaluation methods and results  
+- Evaluation methods and results
 - Reflection and future recommendations  
 
 
